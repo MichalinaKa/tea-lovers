@@ -1,6 +1,6 @@
 # tea-lovers
 https://michalinaka.github.io/tea-lovers/
 
-##used technologies: html, css, Bootstrap
+## used technologies: html, css, Bootstrap
 
-##website based on project of Aga Naplocha (Hello colors)
+## website based on project of Aga Naplocha (Hello colors)
